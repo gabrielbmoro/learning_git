@@ -50,6 +50,38 @@ git <comando> --help
 
 ### Part 2
 
+```sh
+# abrir o diretório
+cd learning_git/
+
+# verificar o estado atual depois da modificação
+git status
+```
+
+- Verifica as diferenças entre o remoto (repositório) e o seu local.
+
+```sh
+git diff
+```
+
+- Adicionando README.md na área de stage (pré-lançamento)
+
+```sh
+git add README.md
+```
+
+- Registrando modificação:
+
+```sh
+git commit -m "Adicionando descrição no README.md"
+```
+
+- Envia para o servidor
+
+```sh
+git push
+```
+
 ### Part 3
 
 ### Part 4
