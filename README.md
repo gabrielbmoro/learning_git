@@ -6,12 +6,12 @@ Esse reposítorio tem por objetivo compreender o GIT.
 
 ### Part 1
 
+- Verifica versão do git
 ```sh
-# verifica versão do git
 git version
 ```
 
-#### Cria repositório
+- Cria repositório
 
 ```sh
 # crie um diretório
@@ -42,7 +42,7 @@ git remote add origin git@github.com:<seuUsuario>/learning_git.git
 git push -u origin main
 ```
 
-#### Aprenda sobre o comando
+- Aprenda sobre o comando
 
 ```sh
 git <comando> --help
