@@ -58,7 +58,7 @@ cd learning_git/
 git status
 ```
 
-- Verificação das diferenças entre o remoto (repositório) e o seu local.
+- Verificação das as diferenças entre: remoto (repositório) e local.
 
 ```sh
 git diff
