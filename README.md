@@ -84,4 +84,10 @@ git push
 
 ### Part 3
 
+- Mostra histórico
+
+```sh
+git log
+```
+
 ### Part 4
