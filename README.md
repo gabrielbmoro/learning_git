@@ -91,3 +91,27 @@ git log
 ```
 
 ### Part 4
+
+- Atualiza a referência do remoto na sua máquina
+
+```sh
+git fetch
+```
+
+- Modifica o editor padrão do git pra usar o nano (mais fácil)
+
+```sh
+git config --global core.editor "nano"
+```
+
+- Junta sua versão local com a remota (mesma branch)
+
+```sh
+git merge origin/main
+```
+
+- Envia para o servidor
+
+```sh
+git push
+```
